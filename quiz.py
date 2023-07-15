@@ -1,5 +1,5 @@
 import streamlit as st
-import random
+#import random
 
 def create_quiz():
     st.header("Quiz Creator")
